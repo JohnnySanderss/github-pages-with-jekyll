@@ -1,7 +1,6 @@
 title: My Super Awesome Title
-author: GitHub User
-email: your-email@domain.com
-description:  >
+author: JohnnySanderss
+description:  |
     Follow the Yellow Brick
     Road to the Emerald City.
     Pay no attention to the
@@ -11,7 +10,9 @@ description:  >
 theme: minima
 
 # social links
+discord_username: JohnnySanderss#9655
+# email: your-email@example.com
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  johnnysanderss 
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
