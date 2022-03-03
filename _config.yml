@@ -1,9 +1,13 @@
 title: My Super Awesome Title
 author: GitHub User
 email: your-email@domain.com
-description: > MY DESCRIPTION IS NOT EMPTY MOTHER FUCKER
+description:  >
+    Follow the Yellow Brick
+    Road to the Emerald City.
+    Pay no attention to the
+    man behind the curtain.
 
-
+#cosmetic
 theme: minima
 
 # social links
