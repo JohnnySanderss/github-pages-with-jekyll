@@ -16,10 +16,12 @@ plugins:
   - jekyll-feed
 
 # social links
-discord_username: JohnnySanderss#9655
-# email: your-email@example.com
-# twitter_username: your-twitter-handle-without@
-github_username:  johnnysanderss 
+# email: your-email@example.com ||| twitter_username: your-twitter-handle-without@
+# defaults
+jssocial:
+  name: Johnny Sanderss
+  github_username:  johnnysanderss
+  discord_username: JohnnySanderss#9655
 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
