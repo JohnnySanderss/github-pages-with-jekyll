@@ -1,15 +1,22 @@
 title: My Super Awesome Title
 author: JohnnySanderss
-description:  >
-    Follow the Yellow Brick
-    
-    Road!
+description: >-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/github-pages-with-jekyll" # the subpath of your site, e.g. /blog
+url: "https://johnnysanderss.github.io"
+
+# Build settings
 theme: minima
+plugins:
+  - jekyll-feed
 
 # social links
 discord_username: JohnnySanderss#9655
 # email: your-email@example.com
-# twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+# twitter_username: your-twitter-handle-without@
 github_username:  johnnysanderss 
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+
+show_excerpts: true # set to false to remove excerpts on the homepage
